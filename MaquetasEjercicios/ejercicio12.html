@@ -1,0 +1,103 @@
+<!--
+    ENTIDAD: Centro de Biotecnología Agropecuaria
+    FICHA: 2558346
+    PROGRAMA: Analisis y Desarrollo de Software
+    AUTOR: Juan Daniel Bohórquez González
+    OBJETIVO>: Maquetado en ejercicios HTML
+    FECHA DE CREACIÓN: 31 de Julio de 2022
+    VERSION: 4.0.0
+    FECHA DE MODIFICACION: 11 de Agosto de 2022 - Juan Daniel Bohórquez González
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+
+        <title>Ejercicio 12</title>
+
+        <link rel="stylesheet" href="./css/MaquetaEjercicio12.css">
+    </head>
+    <body>
+        <div id="container">
+            <div id="Header">
+                <h1 id="Enc">Ficha: 2558346</h1>
+        
+            </div>
+            <div id="Nav">
+                <h1 id="Men">Ejercicio 12</h1>
+        
+            </div>
+            <div id="Main">
+                <h3 id="tit">Comparativa de reproductores MP3</h3>
+                <div class="Cue">
+                    <table>
+                        <caption>Tabla comparativa de las características técnicas de los reproductores</caption>
+                        <tr>
+                            <th></th>
+                            <th abbr="Reproductor mini" scope="col" colspan="3">
+                                <img src="./IMG/Mp3PequeBlanco.jpg" alt="Imagen del reproductor MP3 pequeño de color blanco" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Mp3PequeNegro.jpg" alt="Imagen del reproductor MP3 pequeño de color negro" style= "width:50px; height:50px;"/>
+                                <br/><strong>MP3 mini</strong>
+                            </th>
+                            <th abbr="Reproductor estándar" scope="col" colspan="2">
+                                <img src="./IMG/Mp3GrandeBlanco.jpg" alt="Imagen del reproductor MP3 grande de color blanco" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Mp3GrandeNegro.jpg" alt="Imagen del reproductor MP3 grande de color negro" style= "width:50px; height:50px;"/>
+                                <br><strong>MP3 grande</strong>
+                            </th>
+                        </tr>
+                        <tr>
+                            <th scope="row" abbr="Capacidad">Capacidad de almacenamiento</th>
+                            <td>4GB <br/> (1.000 canciones)</td>
+                            <td>8GB <br/> (2.000 canciones)</td>
+                            <td>16GB <br/> (4.000 canciones)</td>
+                            <td>30GB <br/> (7.500 canciones)</td>
+                            <td>80GB <br/> (20.000 canciones)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row" abbr="Colores disponibles">Colores</th>
+                            <td>
+                                <img src="./IMG/Blanco.jpg" alt="Color blanco" style= "width:50px; height:50px;"/>
+                            </td>
+                            <td>
+                                <img src="./IMG/Blanco.jpg" alt="Color blanco" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Verde.jpg" alt="Color verde" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Azul.jpg" alt="Color azul" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Rosa.jpg" alt="Color rosa" style= "width:50px; height:50px;"/>
+        
+                            </td>
+                            <td>
+                                <img src="./IMG/Negro.jpg" alt="Color negro" style= "width:50px; height:50px;"/>
+                            </td>
+                            <td colspan="2">
+                                <img src="./IMG/Blanco.jpg" alt="Color blanco" style= "width:50px; height:50px;"/>
+                                <img src="./IMG/Negro.jpg" alt="Color negro" style= "width:50px; height:50px;"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" abbr="Tamaño de pantalla">Pantalla</th>
+                            <td colspan="3">LCD de 3 cm (diagonal) con retroiluminación</td>
+                            <td colspan="2">LCD de 6 cm (diagonal) con retroiluminación</td>
+                        </tr>
+                        <tr>
+                            <th rowspan="2" scope="row" abbr="Tiempo de carga">Tiempo de carga</th>
+                            <td rowspan="2" colspan="3">Unas 3 horas</td>
+                            <td colspan="2">Unas 4 horas</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Unas 2 horas para alcanzar el 80% de la capacidad</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="Footer">
+                <p id="pie">Juan Daniel Bohorquez Gonzalez</p>
+                <p id="pie2">Copyright © 2022 Todos los derechos reservados ADSO</p>
+                <img src="data:image/png;base64,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" alt="" id="img">
+            </div>
+        </div>
+    </body>
+</html>
+
+
+
