@@ -76,13 +76,13 @@ Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas
 
 ### Maquetado_6
 
-![image](https://user-images.githubusercontent.com/110575826/184456528-1dd35bbc-1347-42c5-ade8-7bcb2986d3f1.png)
+![Maq6](https://user-images.githubusercontent.com/110575826/184457247-5239ee75-4639-43a1-b0f5-9ffa1ea48e8a.jpg)
 
 Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h2, p, class, id, img, a.
 
 ### Maquetado_7
 
-![image](https://user-images.githubusercontent.com/110575826/184456664-1e01fde7-4f5a-4202-aea9-f448b58a428f.png)
+![Maq7](https://user-images.githubusercontent.com/110575826/184457363-31a6c1f2-b7db-48ff-ac40-b6161c5ff4b1.jpg)
 
 Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, p, class, id, img, a, li, strong.
 
@@ -95,3 +95,17 @@ Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas
 ### Maquetado_9
 
 ![Maq9](https://user-images.githubusercontent.com/110575826/184457066-8ab947d4-c7ca-4ce8-9a8e-0510fd88d922.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h3, p, class, id, img, a.
+
+### Maquetado_10
+
+![Maq10](https://user-images.githubusercontent.com/110575826/184457554-8bf0c1b1-d289-4ad2-af88-4ae0e65a6b00.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, table, p, class, id, img, tr, td, th, strong, &amp.
+
+### Maquetado_11
+
+![Maq11](https://user-images.githubusercontent.com/110575826/184458084-49290763-15cd-4af5-b0b7-254deed7157d.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h4, table, p, class, id, img, tr, td, a, abbr, del, &euro, strong. 
