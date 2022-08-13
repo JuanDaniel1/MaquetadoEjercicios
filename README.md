@@ -109,3 +109,27 @@ Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas
 ![Maq11](https://user-images.githubusercontent.com/110575826/184458084-49290763-15cd-4af5-b0b7-254deed7157d.jpg)
 
 Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h4, table, p, class, id, img, tr, td, a, abbr, del, &euro, strong. 
+
+### Maquetado_12
+
+![Maq12](https://user-images.githubusercontent.com/110575826/184468000-44625465-6fed-4875-844a-d153268d298c.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h3, table, p, class, id, img, tr, th, td, a, strong, caption, abbr.
+
+### Maquetado_13
+
+![Maq13](https://user-images.githubusercontent.com/110575826/184468288-1652936f-0c0a-4a32-b8eb-d280d29be447.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h2, p, class, id, img, form, br, input.
+
+### Maquetado_14
+
+![Maq14](https://user-images.githubusercontent.com/110575826/184468377-3e922b0a-c2dc-4870-a3df-cb0d7fb330b4.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h1, h2, h3, p, class, id, img, form, fieldset, legend, label, select, option, br, input.
+
+### Maquetado_15
+
+![Maq15](https://user-images.githubusercontent.com/110575826/184468491-4d1a5b3f-c668-4b01-815c-af086a76d6ee.jpg)
+
+Maquetado con encabezado, menu, cuerpo y pie de pagina usando HTML-CSS, eiquetas div, h3, p, class, id, img, form, fieldset, legend, label, select, option, input, &nbsp, textarea.
