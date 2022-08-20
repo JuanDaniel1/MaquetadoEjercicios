@@ -20,25 +20,33 @@ FECHA DE MODIFICACION: 7 de Agosto de 2022 - Juan Daniel Bohórquez González
 
 ## Info
 
-Este repositorio contiene las maquetas de pagina web y los maquetados de cada ejercicio, con distintos colores y estilos.
+Este repositorio contiene las maquetas de pagina web que son utilizadas como plantillas dependiendo de la interfaz de la pagina web y los maquetados de los 15 ejercicios, usando como plantilla la primera maqueta (encabezado, nav, cuerpo y pie de pagina), con distintos colores de fondo, tipos de letra, colores de letra, posiciones de letra y backgrounds, medidas de background. Se realizan estos ejercicios para acercarnos mas a la estructura de una pagina web y toda la estetica con relacion a esta.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Anotaciones
 
-:+1: 15 ejercicios realizados
+:+1: -Se realizaron 15 ejercicios (HTML 5 con CSS) que contienen el maquetado 1 de las plantillas de maquetas, encabezado, menu, cuerpo y pie de pagina (Encabezado: Ficha, Menu: Nombre de ejercicio, Cuerpo: Contenido del codigo y pie de pagina: Nombre y copyright).
 
-:+1: Documentados
+:+1: -Ejercicios documentados en el codigo HTML de cada ejercicio en la parte superior (Entidad, Ficha, Autor, Programa, Fecha de creacion, Fecha de modificacion, Version, Objetivo)
 
-:+1: Indentados
+:+1: -Codigos de ejercicios indentados para que se organicen de tal manera que se pueda visualizar donde inicia y termina cada etiqueta, por lo tanto es mas organizado el codigo y se puede apreciar facilmente la estructura del codigo
 
-:+1: Validados por W3C
+:+1: -Codigos de los 15 ejercicios y maquetas validados por W3C validator, donde se analizaron algunos errores con div que se debian corregir para que sea apto y se pueda ejecutar de la forma correcta en HTML 5 con CSS.
 
-:+1: Desarrollo de maquetados
+:+1: Desarrollo de maquetados que son plantillas para las paginas web:
 
-:+1: Maquetado por cada ejercicio realizado
+-Maqueta 1: Encabezado, menu, cuerpo, pie de pagina.
 
-:+1: Variedad de estilos
+-Maqueta 2: Encabezado, menu, cuerpo, lateral derecho, pie de pagina.
+
+-Maqueta 3: Encabezado, menu, cuerpo, lateral izquierdo, pie de pagina.
+
+-Maqueta 4: Encabezado, menu, cuerpo, lateral izquierdo, menu de opciones y pie de pagina.
+
+:+1: Maquetado por cada ejercicio realizado con base a la maqueta 1, tambien se insertaron imagenes en el encabezado sacadas de pixabay para mejorar el diseño y que la maqueta se vea mas dinamica y estetica.
+
+:+1: Variedad de estilos en los backgrounds como colores, posiciones, tambien los tipos de letra, sus posiciones y colores.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
