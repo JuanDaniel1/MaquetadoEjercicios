@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1000px;
+    height: 1200px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Header{
+    width: 1000px;
+    height: 200px;
+    background: url(https://pixabay.com/get/g13608e585cd9ff890386a6dbab8b1e44acc755e3e5153988f437a56ac7090a6c2e830e00045a985ca468e455fac0d371_1280.jpg);
+}
+#Enc{
+    position: relative;
+    left: 400px;
+    top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(97, 0, 8);
+}
+#Nav{
+    width: 1000px;
+    height: 100px;
+    background-color:rgb(111, 216, 129);
+}
+#Men{
+    position: relative;
+    left: 450px;
+    top: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(3, 40, 109);
+    
+    
+}
+#Main{
+    width: 1000px;
+    height: 750px;
+    background-color:rgb(73, 0, 80);
+}
+.Cue{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0)
+}
+#Footer{
+    width: 1000px;
+    height: 150px;
+    background-color:rgb(141, 139, 32);
+}
+#pie{
+    position: relative;
+    left: 300px;
+    top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(99, 47, 47);
+}
+#pie2{
+    position: relative;
+    left: 360px;
+    top: 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: rgb(71, 36, 36);
+
+}
+#sub{
+    position: relative;
+    left: 50px;
+    top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(11, 146, 83);
+    font-weight: bold;
+    
+}
+#tit{
+    position: relative;
+    left: 300px;
+    top:5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:45px;
+    color: rgb(7, 102, 114);
+}
+#img{
+    position: relative;
+    left: 850px;
+    
+}

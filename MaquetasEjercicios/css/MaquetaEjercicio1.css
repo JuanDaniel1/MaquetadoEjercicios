@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1000px;
+    height: 1200px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Header{
+    width: 1000px;
+    height: 200px;
+    background: url(https://pixabay.com/get/gcce763a02542d2470f24289dcf85dcd592e2e8c3d280b1764a408581a58f96f65b305ee1c053281662f230b45b5cccbddd8e349cda97b6e92eb9b2a8abb337ae_1280.jpg) ;
+}
+#Enc{
+    position: relative;
+    left: 400px;
+    top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(187, 4, 117);
+}
+#Nav{
+    width: 1000px;
+    height: 100px;
+    background-color:rgb(0, 0, 0);
+}
+#Men{
+    position: relative;
+    left: 450px;
+    top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(85, 114, 5);
+}
+#Main{
+    width: 1000px;
+    height: 750px;
+    background-color:rgb(112, 62, 42);
+}
+.Cue{
+    position: relative;
+    left: 20px;
+    top: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(217, 174, 0)
+}
+#Footer{
+    width: 1000px;
+    height: 150px;
+    background-color:rgb(4, 1, 48);
+}
+#pie{
+    position: relative;
+    left: 300px;
+    top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(129, 51, 6);
+}
+#pie2{
+    position: relative;
+    left: 400px;
+    top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    color: rgb(129, 49, 3);
+
+}
+#img{
+    position: relative;
+    left: 850px;
+    
+}

@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1000px;
+    height: 1200px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Header{
+    width: 1000px;
+    height: 200px;
+    background: url(https://pixabay.com/get/gc9928c489ecc3d7aa899b5a1d1c64a6125eb983c7eb4b41429243949cc283f631e22948bcbe271de3161da6b6bca008f4b4bfce98d6997f5e665ab0267107842_1280.jpg);
+}
+#Enc{
+    position: relative;
+    left: 400px;
+    top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(238, 10, 10);
+}
+#Nav{
+    width: 1000px;
+    height: 100px;
+    background-color:rgb(117, 218, 117);
+}
+#Men{
+    position: relative;
+    left: 450px;
+    top: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(100, 134, 24);
+    
+    
+}
+#Main{
+    width: 1000px;
+    height: 750px;
+    background-color:rgb(167, 106, 124);
+}
+.Cue{
+    position: relative;
+    left: 50px;
+    top: 200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(148, 148, 148)
+}
+#Footer{
+    width: 1000px;
+    height: 150px;
+    background-color:rgb(83, 50, 79);
+}
+#pie{
+    position: relative;
+    left: 300px;
+    top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(241, 241, 241);
+}
+#pie2{
+    position: relative;
+    left: 360px;
+    top: 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: rgb(233, 233, 233);
+
+}
+.sub{
+    position: relative;
+    left: 50px;
+    top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(255, 147, 58);
+    font-weight: bold;
+    
+}
+#tit{
+    position: relative;
+    left: 50px;
+    top:200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:45px;
+    color: rgb(252, 54, 54);
+}
+#img{
+    position: relative;
+    left: 850px;
+    
+}

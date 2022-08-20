@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1000px;
+    height: 1200px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Header{
+    width: 1000px;
+    height: 200px;
+    background: url(https://pixabay.com/get/ge4ef16f02a1dcf9975cba76304cd97ab1a029c123c21febe204b1ad38417224d38cc41cc1166db40456c37e70da3c9df8414f71eed8b06188ee282dff540ae34_1280.jpg);
+}
+#Enc{
+    position: relative;
+    left: 400px;
+    top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(48, 117, 39);
+}
+#Nav{
+    width: 1000px;
+    height: 100px;
+    background-color:rgb(150, 231, 0);
+}
+#Men{
+    position: relative;
+    left: 450px;
+    top: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    
+    
+}
+#Main{
+    width: 1000px;
+    height: 750px;
+    background-color:rgb(28, 44, 185);
+}
+.Cue{
+    position: relative;
+    left: 1px;
+    top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(187, 187, 187)
+}
+#Footer{
+    width: 1000px;
+    height: 200px;
+    background-color:rgb(199, 79, 58);
+}
+#pie{
+    position: relative;
+    left: 300px;
+    top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(37, 128, 131);
+}
+#pie2{
+    position: relative;
+    left: 360px;
+    top: 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: rgb(28, 121, 124);
+
+}
+#sub{
+    position: relative;
+    left: 50px;
+    top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(57, 37, 61);
+    font-weight: bold;
+    
+}
+#tit{
+    position: relative;
+    left: 200px;
+    top:5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:45px;
+    color: rgb(88, 45, 94);
+}
+#img{
+    position: relative;
+    left: 850px;
+    
+}
